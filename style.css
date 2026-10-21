@@ -1,0 +1,19 @@
+.impressive {
+color:blue;
+}
+.hero{
+   background-color:green;
+}
+.perfect{
+    text-align:center;
+}
+.service-container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.service-box{
+   width:280px;
+   padding:25px;
+   order:1,2,3,4;
+}
